@@ -8,6 +8,11 @@ High-performance TCP chat server built with Python's standard library (`socket`,
 [Watch the demo video](https://drive.google.com/file/d/1guU1h10-7POLeoBcrQGLaZdB-kGhzzrc/view?usp=sharing)
 
 
+## Github Repository
+[Github repo](https://github.com/MrKunalSharma/algokart-chat-server.git)
+
+
+
 ## Table of Contents
 
 - [Features](#features)
